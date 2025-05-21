@@ -1,0 +1,3 @@
+Why did the Python code break up with the JavaScript code?
+
+Because it said, "I need someone with more structure and less… dynamic typing. You’re just too unpredictable. I'm looking for a solid foundation."
