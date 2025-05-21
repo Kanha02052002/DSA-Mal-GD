@@ -1,0 +1,4 @@
+```
+My AI model's accuracy is 99.9%...
+...but it still can't find my missing socks.
+Guess my data structures are just fundamentally flawed.```
