@@ -1,0 +1,3 @@
+Why did the developer ghost the dating app match?
+
+He said their profile was full of bugs, lacked proper documentation, and the API was just…unavailable. He preferred someone with clean code.
