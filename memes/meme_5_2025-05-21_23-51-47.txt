@@ -1,0 +1,3 @@
+Why did the developer break up with their code reviewer?
+
+Because they kept saying, "This code is... interesting." It felt like a very passive-aggressive optimization suggestion.
