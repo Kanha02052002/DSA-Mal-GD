@@ -1,0 +1,3 @@
+Why did the codebase break up with the new framework?
+
+It said, "I just feel like you're trying to overwrite everything I've built... and frankly, your documentation is a mess. I need stability, not a constant refactor."
