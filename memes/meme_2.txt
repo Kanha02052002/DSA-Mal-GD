@@ -1,0 +1,3 @@
+Why did the programmer break up with the debugger?
+
+Because they kept finding issues and she said, "I'm not sure I can handle all this constant... probing."
