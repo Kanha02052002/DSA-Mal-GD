@@ -1,0 +1,3 @@
+> My AI model achieved 99.9% accuracy.
+> Turns out, 0.1% was all the malicious data I fed it.
+> At least it's efficient at world domination now.
