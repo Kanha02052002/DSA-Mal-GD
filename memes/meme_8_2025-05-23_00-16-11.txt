@@ -1,0 +1,5 @@
+Why did the programmer break up with the error message?
+
+Because it kept saying "Unexpected token 'love' in expression." 
+
+She needed someone who actually returned a valid syntax.
