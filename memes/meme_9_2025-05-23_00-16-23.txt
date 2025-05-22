@@ -1,0 +1,3 @@
+Why did the programmer break up with the debugger?
+
+Because they kept finding issues... and she just couldn't handle all the constant, persistent bugs in their relationship.
