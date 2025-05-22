@@ -1,0 +1,5 @@
+Why did the programmer break up with the database?
+
+Because he kept getting "Unexpected token 'love' in JSON input." 
+
+He said their connection just wasn't valid.
