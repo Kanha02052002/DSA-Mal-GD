@@ -1,0 +1,3 @@
+Why did the linked list break up with the array?
+
+Because it said their relationship was too linear, lacked dynamic flexibility, and it needed someone with a more robust data structure. Plus, it felt constantly sorted.
