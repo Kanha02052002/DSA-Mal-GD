@@ -1,0 +1,3 @@
+Why did the Linux kernel break up with the shell?
+
+Because it said their relationship was too terminal. It needed some space to reboot and find a new root.
