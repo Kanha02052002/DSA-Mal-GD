@@ -1,0 +1,3 @@
+Why did the Python developer break up with the Java developer?
+
+They couldn't see eye to interface. He said she was too verbose and lacked elegance. She just didn't *get* his list comprehensions.
