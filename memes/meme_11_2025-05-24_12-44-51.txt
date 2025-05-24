@@ -1,0 +1,3 @@
+Why did the JavaScript developer break up with the TypeScript developer?
+
+They had fundamental differences. She kept expecting him to type things properly, and he just kept saying "trust me, it's dynamic."
