@@ -1,0 +1,3 @@
+Why did the programmer break up with the database administrator? 
+
+They had a serious schema conflict, plus she kept asking for more indexes and he felt totally unoptimized.
