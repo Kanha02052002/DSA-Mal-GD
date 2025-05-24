@@ -1,0 +1,3 @@
+Why did the linked list break up with the array?
+
+Because it felt like their relationship was just a series of linear dependencies. It needed something with more...flexibility.
