@@ -1,0 +1,3 @@
+Why did the DevOps engineer break up with the database administrator?
+
+They had commitment issues. She kept saying she needed more time to scale, and he felt like he was always patching things. He just couldn't handle the constant deployments.
