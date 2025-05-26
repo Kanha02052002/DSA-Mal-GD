@@ -1,0 +1,3 @@
+Why did the JavaScript developer break up with the network engineer at the conference?
+
+They just couldn't connect on a deeper level. He kept saying she was all about protocols, and she thought his async calls were inappropriate.
