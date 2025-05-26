@@ -1,0 +1,5 @@
+Why did the developer break up with their side project?
+
+It kept promising a full feature release…and just ghosting them. Said it was working on a major backend overhaul. 
+
+Turns out, it was just a really elaborate dependency hell.
