@@ -1,0 +1,5 @@
+Why did the CS major break up with the database?
+
+Because they had no schema for a lasting relationship, and all their connections were just foreign keys. 
+
+I heard the error messages were brutal.
