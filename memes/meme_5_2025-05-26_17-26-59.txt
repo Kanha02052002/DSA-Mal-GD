@@ -1,0 +1,3 @@
+Why did the developer break up with the algorithm?
+
+Because there was no connection, just endless loops and a severe case of stack overflow. I told her I needed some space... and maybe a new framework.
